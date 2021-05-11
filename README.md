@@ -54,4 +54,7 @@ And it took me an hour to get it working, the code was messy, but it worked perf
 
 They said my code was confusing, to complicated, too many hard-coded literals. So I didn't get the job. :-(
 
-    Since the race is over.... I've cleaned up the code, considered the critique, it much easier to understand, except for some log messages there are no hard-coded literals. It's design and functionality is like a Swiss-Watch.
+    Since the race is over.... I've cleaned up the code, considered the critique.
+    It is much easier to understand, except for some log messages there are no hard-coded literals. 
+    It's design and functionality is like a Swiss-Watch.
+    
